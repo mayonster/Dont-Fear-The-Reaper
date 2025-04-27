@@ -1,4 +1,4 @@
-# Cyberpunk 2077 Tarot Cards
+# Don't Fear The Reaper
 A Balatro mod that adds the Tarot cards from Cyberpunk 2077. <br/>
 Requires [Malverk](https://github.com/Eremel/Malverk).
 
